@@ -1,0 +1,5 @@
+{
+  "name": "رماية التوقيت",
+  "description": "An application for calculating timing shooting results based on performance in five stages. Users can enter their name, stage data (time and hit status), and save the final results to their device's local storage.",
+  "requestFramePermissions": []
+}
